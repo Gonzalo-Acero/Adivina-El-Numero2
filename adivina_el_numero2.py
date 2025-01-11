@@ -26,4 +26,6 @@ def advina_el_numero_PC(x):
         
         if respuesta_usuario == "a":
             limite_superior = prediccion - 1
+        elif respuesta_usuario == "b":
+            
     

@@ -5,7 +5,16 @@ Nivel `Beginner/Principiante`.
 
 
 
-#### Explicacion linea `28`
+#### Explicacion linea `27`
+~~~
+**Intervalo inicial: [1, 10]**
+
+**Prediccion: 6**
+
+**Respuesta: "a"** `prediccion alta`
+
+**Intervalo: [1, 5]**
+~~~
 
 **Intervalo inicial: [1, 10]**
 
@@ -14,3 +23,4 @@ Nivel `Beginner/Principiante`.
 **Respuesta: "a"** `prediccion alta`
 
 **Intervalo: [1, 5]**
+
