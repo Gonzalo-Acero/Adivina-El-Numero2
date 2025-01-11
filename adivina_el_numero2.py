@@ -27,5 +27,9 @@ def advina_el_numero_PC(x):
         if respuesta_usuario == "a":
             limite_superior = prediccion - 1
         elif respuesta_usuario == "b":
+            limite_inferior = prediccion + 1
             
+    print(f"La computadora logró adivinar tu numero correctamente: {prediccion} !!!")
+    
+advina_el_numero_PC(10)
     

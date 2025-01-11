@@ -16,11 +16,13 @@ Nivel `Beginner/Principiante`.
 **Intervalo: [1, 5]**
 ~~~
 
+~~~
 **Intervalo inicial: [1, 10]**
 
 **Prediccion: 6**
 
-**Respuesta: "a"** `prediccion alta`
+**Respuesta: "b"** `prediccion baja`
 
-**Intervalo: [1, 5]**
+**Intervalo: [7, 10]**
+~~~
 
